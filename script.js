@@ -12,5 +12,5 @@ noButton.addEventListener("mouseover", function() {
 });
 
 document.getElementById("yes").addEventListener("click", function() {
-    alert("Жду тебя! ❤️");
+    alert("я знаю ❤️");
 });
